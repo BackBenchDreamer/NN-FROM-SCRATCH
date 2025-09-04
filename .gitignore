@@ -1,0 +1,8 @@
+.venv
+
+# Ignore everything in Datasets folder
+Datasets/*
+
+# Keep only train.csv and test.csv
+!Datasets/train.csv
+!Datasets/test.csv
